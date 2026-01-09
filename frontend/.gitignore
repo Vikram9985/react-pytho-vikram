@@ -1,0 +1,16 @@
+# FRONTEND
+frontend/node_modules/
+frontend/build/
+
+# BACKEND
+backend/__pycache__/
+backend/venv/
+
+# ENV
+.env
+
+# SYSTEM
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
