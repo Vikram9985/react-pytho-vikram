@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-# CORS (React నుండి call చేయడానికి)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
