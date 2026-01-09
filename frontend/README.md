@@ -181,11 +181,7 @@ git push
 
 ---
 
-## 🧠 Interview Summary
 
-> “I built a full‑stack admin dashboard using React and FastAPI. The frontend communicates with backend APIs for authentication, charts, and tables. I used Git for version control and structured the project as a monorepo.”
-
----
 
 ## 👨‍💻 Author
 
